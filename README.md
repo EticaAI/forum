@@ -1,4 +1,16 @@
-# Fórum Etica.AI: Etica no uso de Automação e Inteligência Artificial
+# Etica.AI Forum
+
+Etica.AI is at present a very small group of Latin Americans concerned with
+gathering information about the philosophy and the use of automation and
+artificial intelligence in which it privileges the human side of technology.
+Non-profit.
+
+**We are concerned about long-term problems**: our current aim is to create the
+basis for the real group of people to have an idea of the dangers and
+especially the potential that automation and artificial intelligence can
+help them make the world a less hostile place.
+
+---
 
 > "Ethics is knowing the difference between what you have a right to do and what is right to do" - Potter Stewart
 >
