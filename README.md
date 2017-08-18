@@ -3,12 +3,18 @@
 Etica.AI is at present a very small group of Latin Americans concerned with
 gathering information about the philosophy and the use of automation and
 artificial intelligence in which it privileges the human side of technology.
-Non-profit.
 
 **We are concerned about long-term problems**: our current aim is to create the
 basis for the real group of people to have an idea of the dangers and
 especially the potential that automation and artificial intelligence can
 help them make the world a less hostile place.
+
+Etica.AI is non-profit. We are interested in people who already have work
+with non-profit social impact, especially areas that may be affected very
+negatively in the coming decades and have an interest in longstanding
+cooperation. We have the ability to make you more productive in your
+bureaucratic tasks before the general population has access in exchange for
+you to help us have the technology and human capital needed in the future.
 
 ---
 
