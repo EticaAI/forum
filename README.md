@@ -10,7 +10,7 @@ especially the potential that automation and artificial intelligence can
 help them make the world a less hostile place.
 
 Etica.AI is non-profit. We are interested in people who already have work
-with non-profit social impact, especially areas that may be affected very
+with social impact, especially areas that may be affected very
 negatively in the coming decades and have an interest in longstanding
 cooperation. We have the ability to make you more productive in your
 bureaucratic tasks before the general population has access in exchange for
@@ -26,7 +26,16 @@ you to help us have the technology and human capital needed in the future.
 
 ## [Forum](https://github.com/EticaAI/forum/issues)
 
-- https://github.com/EticaAI/forum/issues
+- <https://github.com/EticaAI/forum/issues>
+
+## [Document repository of Etica.AI](https://docs.etica.ai)
+
+Document repository of Etica.AI. Suggestions for documents related to classical
+ethics (not specific to artificial intelligence) are welcome too, especially
+Portuguese and Spanish translations.
+
+- Website: [docs.etica.ai](https://docs.etica.ai)
+- Source: [github.com/EticaAI/docs.etica.ai](https://github.com/EticaAI/docs.etica.ai)
 
 ## [Anti-AI](https://github.com/EticaAI/forum/projects/3)
 
@@ -43,3 +52,8 @@ What has been donated, borrowed or simply bought and which can be used by collea
 ## [Process automation for Etica.AI partners](https://github.com/EticaAI/forum/projects/1)
 
 Let us collaborate so that the time spent helping Etica.AI be potentiated for positive impact in the world and allow those same people to have quality time with and for the humans who love them.
+
+## [Etica.AI organization at GitHub]
+
+See [github.com/EticaAI](https://github.com/EticaAI) for a complete list of
+repositories maintained by this organization. Not all are listed here.
