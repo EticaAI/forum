@@ -1,4 +1,28 @@
+# Etica.AI
+**Etica.AI is concerned about long-term social & ethical implications of artificial intelligence on Africa/Latin America. Do it via grassroots acts in short-term.**
+
+## Quick links
+![Status of this document: Work in progress](docs/img/badges/status-work-in-progress.svg)
+Note: this section of document is being updated to reflect the entry of new
+coordinating members as well as evolution of our focus.
+[See the 2018 version](https://github.com/EticaAI/forum/releases/tag/v2018).
+
+### The organization
+- [GitHub Organization: EticaAI](https://github.com/EticaAI)
+- [Facebook Page: Etica.AI](https://www.facebook.com/EticaAI)
+- [Twitter Account: EticaAI](https://twitter.com/EticaAI)
+- [LinkedIn Organization: etica-ai](https://www.linkedin.com/company/etica-ai/)
+- [Etica.AI Forum](https://github.com/EticaAI/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
+
+<!--
+
+
+
+
 # [Etica.AI Forum](https://github.com/EticaAI/forum/issues?q=is%3Aissue+is%3Aopen+sort%3Aupdated-desc)
+
+
+
 
 Etica.AI is at present a very small group of Latin Americans concerned with
 gathering information about the philosophy and the use of automation and
@@ -73,3 +97,6 @@ repositories maintained by this organization. Not all are listed here.
 Some projects are incubated outside EticaAI GitHub account and depending of the
 results could be imported. Read the [forum.etica.ai](http://forum.etica.ai) to
 know about they.
+
+
+-->
