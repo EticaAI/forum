@@ -16,6 +16,7 @@
     - [cplp-contexto-tecnologico-etica-ai](#cplp-contexto-tecnologico-etica-ai)
     - [docs.etica.ai](#docseticaai)
     - [etica.ai](#eticaai)
+    - [forum](#forum)
     - [recursos-desenvolvimento-periferia](#recursos-desenvolvimento-periferia)
     - [Other projects](#other-projects)
 - [Discussion forums](#discussion-forums)
@@ -57,7 +58,7 @@ means that they **must respect EticaAI code of conduct**, even if the project
 lack of the specific file.
 
 ### ais-ethics-open-groups
-> urated list of Open Groups (accessible to persons who are not yet experts
+> Curated list of Open Groups (accessible to persons who are not yet experts
 and do not require association with an institution) to discuss Ethics of
 Autonomous and Intelligent Systems (A/IS)
 
@@ -69,7 +70,7 @@ Autonomous and Intelligent Systems (A/IS)
 Autonomous Systems (AI/AS)
 
 - GitHub: <https://github.com/fititnt/ais-ethics-orgs>
-- Public Website: <https://organizations.etica.ai/>
+- Public Website: <https://organizations.etica.ai>
 
 ### ais-ethics-standards
 > Curated list of standards related to Ethics of Autonomous and Intelligent
@@ -119,8 +120,17 @@ artificial intelligence.
 ### etica.ai
 > etica.ai root website. Discussions at <https://github.com/EticaAI/forum>
 
-- GitHub: <https://github.com/EticaAI/etica.ai>
-- Public Website: <https://etica.ai/>
+- GitHub: <https://github.com/EticaAI/forum/tree/master/docs>
+- Public Website: <https://etica.ai>
+
+### forum
+> This (for now) point to the same repository of this README.md file under the
+`docs/` folder. It only exist for users who visit http://forum.etica.ai be
+redirected to <https://github.com/EticaAI/forum>. And maybe on future use
+a different platform for host issues.
+
+- GitHub: <https://github.com/EticaAI/forum/tree/master/docs>
+- Public Website: <http://forum.etica.ai>
 
 ### recursos-desenvolvimento-periferia
 > Recursos para pessoas desenvolvedoras de periferia
